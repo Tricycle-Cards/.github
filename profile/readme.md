@@ -1,14 +1,13 @@
-# 🛞🛞🛞 Tricycle cards for kids 
+# *TRICYCLE CARDS FOR KIDS* 🛞🛞🛞 
 
 ---
 
+## Our mission
 
-# title level 1 
-
-## title level 2
+## Our products
 - list item
 - list item
 
-## title level 2
+## How to use our deck of cards
 - list item
 - list item
