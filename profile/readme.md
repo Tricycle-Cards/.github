@@ -1,8 +1,11 @@
 # 🃏 *TRICYCLE - CARDS FOR KIDS* 🃏
 
+Website: [tricyclecards.com](tricyclecards.com)
+
 ---
 
 ## Our mission
+Early development of 
 
 ## Our products
 - list item
