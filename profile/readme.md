@@ -1,4 +1,4 @@
-# *TRICYCLE CARDS FOR KIDS* 🛞🛞🛞 
+# 🃏 *TRICYCLE - CARDS FOR KIDS* 🃏
 
 ---
 
@@ -7,6 +7,8 @@
 ## Our products
 - list item
 - list item
+
+## The science behind it
 
 ## How to use our deck of cards
 - list item
