@@ -4,6 +4,40 @@
 
 _Purchase at [add site link here](tricyclecards.com)_
 
+We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
+
+### 🔬  The science behind our product 
+[one liner here]
+1 - Sound by sound method, starting with first one 
+
+2 - Corrective mechanism
+
+
+3 - Attractive
+Emojis they love, animals that are already in their mental model, 
+
+
+3 - Practiceal for all 
+tried format, 
+
+- Kids love emojis
+- Sound first. the deck is in sounds not letters. 'CH', S
+- No minimal age to learn how to read, with no downside.
+- Self-correcting (Montessori). Very quickly associate letters with sound, can try and correct and play themselves
+- doesn't take much space
+- Infinite games 
+- leverage the tried playing card format 
+- ___ (Celine Alvarez)
+
+### 🃏 How to use our cards
+
+#### 📖 Main principle
+Sounds, not letters
+
+#### Game ideas 
+
+
+
 <!--
 
 <p align="center">
@@ -18,24 +52,6 @@ Website: [tricyclecards.com](tricyclecards.com)
 _Learning cards for kids_
 
 ### 🂡 Product
+### 🌱 Mission
 
 -->
-
-### 🌱 Mission
-Our mission is to foster the early development of the child through a set of fun and science-backed learning cards.
-
-### 🔬  The science behind our product 
-[one liner here]
-- Kids love emojis
-- Sound first. the deck is in sounds not letters. 'CH', S
-- No minimal age to learn how to read, with no downside.
-- Self-correcting (Montessori). Very quickly associate letters with sound, can try and correct and play themselves
-- doesn't take much space
-- Infinite games 
-- leverage the tried playing card format 
-- ___ (Celine Alvarez)
-
-### 📖 A key principle
-Sounds, not letters
-
-### 🎲 Game ideas 
