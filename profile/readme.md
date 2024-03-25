@@ -1,10 +1,11 @@
-# 🃏 *Tricycle* 🃏
-_Learning cards for kids_
 
 
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/written_title.png?raw=true" style="width: 400px;"/>
 
 <!--
 Website: [tricyclecards.com](tricyclecards.com)
+# 🃏 *Tricycle* 🃏
+_Learning cards for kids_
 -->
 
 ## 1 - Some context
