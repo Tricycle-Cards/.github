@@ -24,10 +24,15 @@ _Learning cards for kids_
 ### 🌱 Mission
 Our mission is to foster the early development of the child through a set of fun and science-backed learning cards.
 
-### 🧪 The science behind our product 
+### 🔬  The science behind our product 
 [one liner here]
 - Kids love emojis
-- Self correcting (Montessori)
+- Sound first. the deck is in sounds not letters. 'CH', S
+- No minimal age to learn how to read, with no downside.
+- Self-correcting (Montessori). Very quickly associate letters with sound, can try and correct and play themselves
+- doesn't take much space
+- Infinite games 
+- leverage the tried playing card format 
 - ___ (Celine Alvarez)
 
 ### 📖 A key principle
