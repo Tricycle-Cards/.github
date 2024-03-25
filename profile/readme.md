@@ -2,12 +2,16 @@
 
 <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/header-red-light.png?raw=true" style="width: 400px;"/>
 
-_Purchase at [add site link here](tricyclecards.com)_
+_[Buy our flagship deck](https://buy.stripe.com/test_dR68zMaztdSP372aEE)_
 
 We facilitate early literacy in children through fun, science-based cards. 🌱
 
 > "To read is to clarify the direct relationship between letters and the sounds of speech."  
-> \- Céline Alvarez  
+> \- Céline Alvarez
+
+### 🔬 The science behind our cards 
+
+### 🃏 How to use our cards
 
 <!--
 
