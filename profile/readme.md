@@ -4,7 +4,7 @@
 
 _Purchase at [add site link here](tricyclecards.com)_
 
-We support early literacy in children through fun and science-based cards. 🌱
+We support early literacy in children through fun, science-based cards. 🌱
 
 > "To read is to clarify the direct relationship between letters and the sounds of speech."  
 > \- Céline Alvarez  
