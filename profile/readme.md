@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/written%20header.png?raw=true" width="400"/>
+  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/presentation%20header.png?raw=true" width="400"/>
 </p>
 
 
