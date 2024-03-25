@@ -8,7 +8,7 @@ We support early literacy in children through fun and science-based cards. 🌱
 
 > "Lire, c'est fluidifier la relation directe entre les lettres et les sons du langage."  
 > \- Céline Alvarez
->  _Translation: "To read is to clarify the direct relationship between letters and the sounds of speech." - Céline Alvarez_
+> _Translation: "To read is to clarify the direct relationship between letters and the sounds of speech." - Céline Alvarez_
 
 
 <!--
