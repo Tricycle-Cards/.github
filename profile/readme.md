@@ -8,9 +8,20 @@ We foster the early development of the child, starting with reading, through a s
 
 <!--
 
+lire c'est fluidifier la relation directe entre les lettres et les sons du language
+
+
 ### 🔬  The science behind our product 
 [one liner here]
 1 - Sound by sound method, starting with first one 
+
+2 - Levels, embdedded
+
+- first sound 
+
+Wor
+stars
+
 
 2 - Corrective mechanism
 
