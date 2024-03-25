@@ -1,18 +1,20 @@
-# 🃏 *TRICYCLE - CARDS FOR KIDS* 🃏
+# 🃏 *Tricycle* 🃏
+_Learning Cards for kids_
 
 Website: [tricyclecards.com](tricyclecards.com)
 
 ---
-
-## Our mission
+## 1 - Some context
+### 🌱 Our mission
 Early development of 
 
-## Our products
+### 🂡 The product
 - list item
 - list item
 
-## The science behind it
+### 🧪 The science behind it
 
-## How to use our deck of cards
-- list item
-- list item
+## 2 - How to use
+### 📖 A basic principle
+
+### 🎲 Game ideas 
