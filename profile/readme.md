@@ -1,9 +1,17 @@
 
 
-<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Presentation%20Card.png?raw=true" style="width: 400px;"/>
+
+<p align="center">
+  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Presentation%20Card.png?raw=true" width="400"/>
+</p>
+
+
+
 
 
 <!--
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Presentation%20Card.png?raw=true" style="width: 400px;"/>
+
 <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/written_title.png?raw=true" style="width: 400px;"/>
 
 Website: [tricyclecards.com](tricyclecards.com)
