@@ -6,6 +6,8 @@ _Purchase at [add site link here](tricyclecards.com)_
 
 We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
 
+<!--
+
 ### 🔬  The science behind our product 
 [one liner here]
 1 - Sound by sound method, starting with first one 
@@ -38,7 +40,7 @@ Sounds, not letters
 
 
 
-<!--
+
 
 <p align="center">
   <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Presentation%20header.png?raw=true" width="400"/>
