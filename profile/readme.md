@@ -4,11 +4,17 @@
 
 _Purchase at [add site link here](tricyclecards.com)_
 
-We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
+We support early literacy in children through fun and science-based cards. 🌱
+
+> "Lire, c'est fluidifier la relation directe entre les lettres et les sons du langage."  
+> \- Céline Alvarez
 
 <!--
 
 lire c'est fluidifier la relation directe entre les lettres et les sons du language
+"Rooted in science, our cards engage children in reading, laying the foundation for early literacy. 
+
+We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
 
 
 ### 🔬  The science behind our product 
@@ -48,10 +54,6 @@ tried format,
 Sounds, not letters
 
 #### Game ideas 
-
-
-
-
 
 <p align="center">
   <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Presentation%20header.png?raw=true" width="400"/>
