@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/prez-header.png?raw=true" style="width: 400px;"/>
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/header-red-light.png?raw=true" style="width: 400px;"/>
 
 _Purchase at [add site link here](tricyclecards.com)_
 
