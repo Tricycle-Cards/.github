@@ -20,7 +20,14 @@ lire c'est fluidifier la relation directe entre les lettres et les sons du langu
 "Rooted in science, our cards engage children in reading, laying the foundation for early literacy. 
 
 We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
+ The Montessori Materials are designed to be self-teaching and self-correcting. It is almost as if they call out to you to use them in the appropriate way, use them in the way that teaches the intended lesson. The materials are the teacher in the classroom, not the adult.
 
+->  figure d'ouverure de la bouche quand le son est fait would be amazing 
+
+
+ 
+quote directly dfrom Montessori 
+The Montessori Materials are designed to be beautiful and appealing to young children.
 
 ### 🔬  The science behind our product 
 [one liner here]
