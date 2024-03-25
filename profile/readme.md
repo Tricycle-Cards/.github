@@ -1,11 +1,8 @@
 
 
-<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/prez-header-red.png?raw=true" style="width: 400px;"/>
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/prez-header.png?raw=true" style="width: 400px;"/>
 
-
-
-
-
+_Purchase at [add site link here](tricyclecards.com)_
 
 <!--
 
@@ -19,21 +16,21 @@
 Website: [tricyclecards.com](tricyclecards.com)
 # 🃏 *Tricycle* 🃏
 _Learning cards for kids_
+
+### 🂡 Product
+
 -->
 
-## 1 - Some context
-### 🌱 Our mission
-Our mission is to foster the early development of the child through a set of fun and science-backed learning cards..
+### 🌱 Mission
+Our mission is to foster the early development of the child through a set of fun and science-backed learning cards.
 
-### 🂡 The product
+### 🧪 The science behind our product 
 [one liner here]
 - Kids love emojis
 - Self correcting (Montessori)
 - ___ (Celine Alvarez)
 
-### 🧪 The science behind it
-
-## 2 - How to use
-### 📖 A base principle: sounds, not letters
+### 📖 A key principle
+Sounds, not letters
 
 ### 🎲 Game ideas 
