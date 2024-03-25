@@ -1,12 +1,11 @@
 # 🃏 *Tricycle* 🃏
-_Learning Cards for kids_
+_Learning cards for kids_
 
 Website: [tricyclecards.com](tricyclecards.com)
 
----
 ## 1 - Some context
 ### 🌱 Our mission
-Early development of 
+Our mission is to __ the early development of the child through a set of fun and science back learning cards..
 
 ### 🂡 The product
 - list item
