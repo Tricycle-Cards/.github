@@ -2,7 +2,11 @@
 
 <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/header-red-light.png?raw=true" style="width: 400px;"/>
 
--> Buy _[our flagship deck](https://buy.stripe.com/7sIeVw8Qsc9I95m144)_
+Our fun, science-based cards help children learn to read from a young age. Our cards are suitable for children as young as 2 years old.
+
+👉 Buy _[our flagship deck](https://buy.stripe.com/7sIeVw8Qsc9I95m144)_
+
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
 
 We facilitate early literacy in children through fun, science-based cards. 🌱
 
