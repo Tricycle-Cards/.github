@@ -9,27 +9,27 @@ We facilitate early literacy in children through fun, science-based cards. 🌱
 > "To read is to clarify the direct relationship between letters and the sounds of speech."  
 > \- Céline Alvarez
 
-### 🔬 The science behind our cards 
+## 🔬 The science behind our cards 
+- Montessori materials are designed to appealing to young children. As such, emojis are ideal as something children are naturally attracted to. 
 
-### 🃏 How to use our cards
+## 🃏 How to use our cards
+
+### 1 - The basic game
+- Make the child guess the word corresponding to the emoji.
+- Then ask for the first _sound_.
+- Turn the card over and check for the answer!
+
+  
+
+
+
 
 <!--
-
-
-> "Lire, c'est fluidifier la relation directe entre les lettres et les sons du langage."  
-> \- Céline Alvarez  
-> _Translation: "To read is to clarify the direct relationship between letters and the sounds of speech." - Céline Alvarez_
-
-lire c'est fluidifier la relation directe entre les lettres et les sons du language
-"Rooted in science, our cards engage children in reading, laying the foundation for early literacy. 
 
 We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
  The Montessori Materials are designed to be self-teaching and self-correcting. It is almost as if they call out to you to use them in the appropriate way, use them in the way that teaches the intended lesson. The materials are the teacher in the classroom, not the adult.
 
 ->  figure d'ouverure de la bouche quand le son est fait would be amazing 
-
-
- 
 quote directly dfrom Montessori 
 The Montessori Materials are designed to be beautiful and appealing to young children.
 
