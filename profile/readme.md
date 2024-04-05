@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/header-red-light.png?raw=true" style="width: 400px;"/>
 
-_[Buy our flagship deck](https://buy.stripe.com/test_dR68zMaztdSP372aEE)_
+-> Buy _[our flagship deck](https://buy.stripe.com/7sIeVw8Qsc9I95m144)_
 
 We facilitate early literacy in children through fun, science-based cards. 🌱
 
