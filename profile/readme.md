@@ -6,7 +6,13 @@ Our fun, science-based cards help children learn to read from a young age. Our c
 
 👉 Buy _[our flagship deck](https://buy.stripe.com/7sIeVw8Qsc9I95m144)_
 
-<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
+
+<p float="left">
+  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Preview%20red%20deck%20cropped.png?raw=true" style="width: 400px; margin-right: 10px;"/>
+  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
+</p>
+
+
 
 We facilitate early literacy in children through fun, science-based cards. 🌱
 
@@ -29,6 +35,10 @@ We facilitate early literacy in children through fun, science-based cards. 🌱
 
 
 <!--
+
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Preview%20red%20deck%20cropped.png?raw=true" style="width: 400px;"/>
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
+
 
 We foster the early development of the child, starting with reading, through a set of fun and science-backed cards. 🌱
  The Montessori Materials are designed to be self-teaching and self-correcting. It is almost as if they call out to you to use them in the appropriate way, use them in the way that teaches the intended lesson. The materials are the teacher in the classroom, not the adult.
