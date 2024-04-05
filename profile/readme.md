@@ -6,28 +6,29 @@ Our fun, science-based cards help children learn to read from a young age. Our c
 
 👉 Buy _[our flagship deck](https://buy.stripe.com/7sIeVw8Qsc9I95m144)_
 
-
-<p float="left">
-  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Preview%20red%20deck%20cropped.png?raw=true" style="width: 400px; margin-right: 10px;"/>
-  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
-</p>
+<img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Preview%20red%20deck%20cropped.png?raw=true" style="width: 400px;"/>
 
 
-
-We facilitate early literacy in children through fun, science-based cards. 🌱
+## 🔬 The theory behind our cards 
 
 > "To read is to clarify the direct relationship between letters and the sounds of speech."  
 > \- Céline Alvarez
 
-## 🔬 The science behind our cards 
-- Montessori materials are designed to appealing to young children. As such, emojis are ideal as something children are naturally attracted to. 
+- Appealing material: emojis are something children are naturally attracted to. 
+- Doesn't require adult supervision
+- Tried playing card format
+- Doesn't take much space, portable everywhere
+
+Adapts with the child's progress: first sound, then rest of the word. That's when levels come in handy ! 
 
 ## 🃏 How to use our cards
 
-### 1 - The basic game
+### 1 - The basic game: emoji to first sound
 - Make the child guess the word corresponding to the emoji.
 - Then ask for the first _sound_.
 - Turn the card over and check for the answer!
+
+  ## Some testimonials
 
   
 
@@ -35,6 +36,14 @@ We facilitate early literacy in children through fun, science-based cards. 🌱
 
 
 <!--
+
+- Montessori materials are designed to appealing to young children. As such, emojis are ideal as something children are naturally attracted to. 
+
+
+<p float="left">
+  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Preview%20red%20deck%20cropped.png?raw=true" style="width: 400px; margin-right: 10px;"/>
+  <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
+</p>
 
 <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Preview%20red%20deck%20cropped.png?raw=true" style="width: 400px;"/>
 <img src="https://github.com/Tricycle-Cards/.github/blob/main/images/Using%20cards.png?raw=true" style="width: 400px;"/>
